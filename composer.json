@@ -14,7 +14,7 @@
         "silvershop/core": "^3.0",
         "suilven/silverstripe-track-member": "~1.0",
         "omnipay/stripe": "^3.0",
-        "php-http/guzzle6-adapter": "^1.1"
+        "php-http/guzzle6-adapter": "^2.0.1"
 	},
 	"autoload": {
 		"psr-4": {
